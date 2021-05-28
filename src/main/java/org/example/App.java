@@ -1,3 +1,9 @@
+/* Gabriel Fernandez
+ * COP3330 - Summer CV01
+ * "Motivated" Practice Exercises
+ * Exercise 01 - Saying Hello
+ */
+
 package org.example;
 
 // Import scanner
