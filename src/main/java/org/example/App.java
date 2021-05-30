@@ -21,6 +21,6 @@ public class App
         Scanner name = new Scanner(System.in);
 
         // Print greeting
-        System.out.println("Hello, " + name.next() + ", nice to meet you!");
+        System.out.println("Hello, " + name.nextLine() + ", nice to meet you!");
     }
 }
