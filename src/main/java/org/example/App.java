@@ -9,7 +9,6 @@ package org.example;
 // Import scanner
 import java.util.Scanner;
 
-
 public class App 
 {
     // Main function
