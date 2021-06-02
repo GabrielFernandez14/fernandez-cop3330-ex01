@@ -4,7 +4,7 @@
  * Exercise 01 - Saying Hello
  */
 
-package org.example;
+package base;
 
 // Import scanner
 import java.util.Scanner;
@@ -17,10 +17,11 @@ public class App
         // Prompt user for input
         System.out.println("What is your name?");
 
-        // Scan in the input to "name"
+        // Scan in the input to "name" and concat inside msg
         Scanner name = new Scanner(System.in);
+        String msg = "Hello, " + name.nextLine() + ", nice to meet you!";
 
         // Print greeting
-        System.out.println("Hello, " + name.nextLine() + ", nice to meet you!");
+        System.out.println(msg);
     }
 }
