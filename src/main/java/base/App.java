@@ -1,8 +1,8 @@
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solutions
  *  Copyright 2021 Gabriel Fernandez
- * "Motivated" Practice Exercises
- * Exercise 01 - Saying Hello
+ *  "Motivated" Practice Exercises
+ *  Exercise 01 - Saying Hello
  */
 
 package base;
